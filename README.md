@@ -1,5 +1,7 @@
 TimeX: Exchange Time, Share Memories, Make Impact
+
 Project Story
+
 🌟 What Inspired Me
 The inspiration for TimeX came from observing a fundamental imbalance in today's world: time inequality. I noticed that some people are overwhelmed with tasks but lack time, while others have time but struggle to monetize it effectively. This sparked the idea of creating a platform where time itself becomes a tradable asset.
 
